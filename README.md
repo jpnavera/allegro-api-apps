@@ -1,4 +1,4 @@
-<!-- FILE VERSION: 1.2 | README publicznego repo jpnavera/allegro-api-apps (strona informacyjna aplikacji Allegro) | updated: 2026-10-19 | 1.2: kontakt aps@navera.pl; 1.1: precyzyjny opis cen w Cortex (kampanie) -->
+<!-- FILE VERSION: 1.3 | README publicznego repo jpnavera/allegro-api-apps (strona informacyjna aplikacji Allegro) | updated: 2026-10-19 | 1.3: kontakt apps@navera.pl (poprawka literówki aps@); 1.2: kontakt aps@navera.pl; 1.1: precyzyjny opis cen w Cortex (kampanie) -->
 
 # Aplikacje Allegro REST API firmy Navera
 
@@ -40,4 +40,4 @@ do kampanii i rabatów Allegro.
 
 ## Kontakt w sprawie aplikacji
 
-aps@navera.pl
+apps@navera.pl
